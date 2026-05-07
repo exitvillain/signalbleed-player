@@ -1,13 +1,13 @@
-# GothamSonic Music Player 
+# SignalBleed.nyc Music Player 
 
 
 ![Player Screenshot](./gothamsonicplayerpicture.png)
 
-Actively powering the live music experience on [GothamSonic.com](https://gothamsonic.com), this player is designed to be fast, responsive, and highly interactive. Complete with a like button and next button.  Analystics like clicks, and play count also get recorded! 
+Actively powering the live music experience on [SignalBleed.nyc](https://signalbleed.nyc), this player is designed to be fast, responsive, and highly interactive. Complete with a like button and next button.  Analystics like clicks, and play count also get recorded! 
 
-### GothamSonic
+### SignalBleed.nyc
 
-A professional React music player with adaptive bitrate streaming via HLS.js. Powers the live player at GothamSonic.com, featuring real-time track switching, playlist support, infinite scroll, and sorting by most liked or most recent.
+A professional React music player with adaptive bitrate streaming via HLS.js. Powers the live player at SignalBleed.nyc, featuring real-time track switching, playlist support, infinite scroll, and sorting by most liked or most recent.
 
 Just trying to make a cool little new york city based music site where you can upload songs, create an artist account, and look out for local shows and music news. The site is up, look out for improvements daily! 
 
@@ -16,7 +16,7 @@ Just trying to make a cool little new york city based music site where you can u
 - React 18
 - HLS.js
 - Vanilla CSS
-- Hosted at: [GothamSonic.com](https://gothamsonic.com)
+- Hosted at: [SignalBleed.nyc](https://signalbleed.nyc)
 
 ---
 
