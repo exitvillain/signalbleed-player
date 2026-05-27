@@ -1,7 +1,7 @@
 # SignalBleed.nyc Music Player 
 
 
-![Player Screenshot](./signalbleedplayer.png)
+![Player Screenshot](./signalhub.png)
 
 Actively powering the live music experience on [SignalBleed.nyc](https://signalbleed.nyc), this player is designed to be fast, responsive, and highly interactive. Complete with a like button and next button.  Analystics like clicks, and play count also get recorded! 
 
