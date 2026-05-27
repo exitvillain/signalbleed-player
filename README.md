@@ -1,11 +1,11 @@
-# SignalBleed.nyc Music Player 
+# SignalBleed.NYC Music Player 
 
 
 ![Player Screenshot](./signalhub.png)
 
-Actively powering the live music experience on [SignalBleed.nyc](https://signalbleed.nyc), this player is designed to be fast, responsive, and highly interactive. Complete with a like button and next button.  Analystics like clicks, and play count also get recorded! 
+Actively powering the live music experience on [SignalBleed.nyc](https://signalbleed.nyc), this player is designed to be fast, responsive, and highly interactive. Complete with a like button and next button.  Analystics like clicks, and play count also get recorded!  Right now plays happen when a user listens to most of the song.  I have to go back into my code to remember what it was i think it was something like 2/3 of the song. 
 
-### SignalBleed.nyc
+### SignalBleed.NYC
 
 A professional React music player with adaptive bitrate streaming via HLS.js. Powers the live player at SignalBleed.nyc, featuring real-time track switching, playlist support, infinite scroll, and sorting by most liked or most recent.
 
